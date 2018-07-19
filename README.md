@@ -1,2 +1,2 @@
 # Init_WF
-Init_WF rewrite using Python.
+Init_WF rewrite using Ruby
